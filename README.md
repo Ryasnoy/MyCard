@@ -1,4 +1,4 @@
 # MyCard
 Business card
 
-ryasnoy.bitballoon.com
+https://ryasnoy.bitballoon.com
